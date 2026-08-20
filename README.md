@@ -129,7 +129,7 @@ report/             write-up + figures
 - Engle & Granger (1987) — cointegration and error correction.
 - Benjamini & Hochberg (1995) — false discovery rate control.
 - Bailey & López de Prado (2014) — Probabilistic and Deflated Sharpe Ratios.
-- Chan (2013) — Kalman-filter dynamic hedge for pairs trading.
+
 
 ---
 
