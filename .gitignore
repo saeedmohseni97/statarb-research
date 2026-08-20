@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# OS
+.DS_Store
+
+# Reference solutions (teaching aids — not part of the shipped repo)
+.solutions/
+
+# Assistant working-context file (not shipped)
+STATE.md
+
+# Notebook-generated artifacts you don't want committed
+report/figures/*.tmp
